@@ -1,0 +1,8 @@
+{
+  "Lock#LendingPool": "0x0895c5f801f67c546f742414afE3a91BBfb4fe37",
+  "Mytokendeploy#MyToken": "0xA7385B18BD0609551bE8BC4be1aF38D54C6c1720",
+  "Lend#LendingPool": "0x2FF8cA2CDfA13CdA1028Eb379b4D34C62FcB6145",
+  "NewLend#LendingPool": "0xeadACCd19C565E640A9D2dad8C02C813bceCa165",
+  "FinalToken#MyToken": "0xB2def282Dd54101639D1e940eBd47D2F87dc8830",
+  "FinalLend#LendingPool": "0xf2389E52327AdD85650C3A8DD1739822690BfC80"
+}
